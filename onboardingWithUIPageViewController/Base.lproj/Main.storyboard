@@ -9,7 +9,7 @@
         <!--Step Zero-->
         <scene sceneID="Qx8-1w-FqD">
             <objects>
-                <viewController storyboardIdentifier="StepZero" id="0a8-Ab-X0L" customClass="StepZero" customModule="onboardingWithUIPageViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="0a8-Ab-X0L" customClass="StepZero" customModule="onboardingWithUIPageViewController" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Qum-Vp-zlD"/>
                         <viewControllerLayoutGuide type="bottom" id="5CT-eP-2RM"/>
@@ -41,7 +41,7 @@
         <!--Step One-->
         <scene sceneID="6zT-A6-nt5">
             <objects>
-                <viewController storyboardIdentifier="StepOne" id="FCB-zw-2oO" customClass="StepOne" customModule="onboardingWithUIPageViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="FCB-zw-2oO" customClass="StepOne" customModule="onboardingWithUIPageViewController" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="DYi-s9-LiH"/>
                         <viewControllerLayoutGuide type="bottom" id="CED-Fa-7xy"/>
@@ -112,7 +112,7 @@
         <!--Step Two-->
         <scene sceneID="dML-vQ-285">
             <objects>
-                <viewController storyboardIdentifier="StepTwo" id="NbC-VN-gOs" customClass="StepTwo" customModule="onboardingWithUIPageViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="NbC-VN-gOs" customClass="StepTwo" customModule="onboardingWithUIPageViewController" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="r07-w0-kKx"/>
                         <viewControllerLayoutGuide type="bottom" id="pLH-bF-Ylz"/>
