@@ -1,4 +1,4 @@
-# UIPageViewController Tutorial Starter
+# UIPageViewController Tutorial -- Starter
 
 This is the starter project for this tutorial.  TODO: add link when tutorial is live.
 
